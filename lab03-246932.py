@@ -66,7 +66,7 @@ for x in range (conta): # A lista começa do 0,pois de 0 até (conta-1) sao (con
                                 else:
                                     print("-", end = " ")
 
-                    elif linha == 2 and n_linha == linha + 1 + 1 : #Duas casas a sua frente quando esta na linha 2
+                    elif linha == 2 and n_linha == linha + 1 + 1 : #Duas casas a sua frente quando esta na linha 2 
                         for p in range (1, n + 1):
                             if p == coluna : 
                                 print("x",end = " ")
