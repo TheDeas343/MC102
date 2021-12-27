@@ -1,3 +1,3 @@
 # MC102
 
-Tarefas feitas em M1202 - 1°Semestre 2021
+Laboratórios feitos em MC102 - 1°Semestre 2021
