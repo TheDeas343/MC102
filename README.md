@@ -1,3 +1,3 @@
-# MC202
+# MC102
 
-Tarefas feitas em MC202 - 2°Semestre 2021
+Tarefas feitas em M1202 - 1°Semestre 2021
