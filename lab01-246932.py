@@ -23,7 +23,7 @@ elif PE > Temp_Atual >= PF:
     print("Estado fisico do material: Liquido")
 
 else:
-    print("Estado fisico do material:  Gasoso")
+    print("Estado fisico do material: Gasoso")
 
 
 
