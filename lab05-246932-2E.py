@@ -1,6 +1,6 @@
 #TODAS AS FUNCOES
 
-# Definir as funcoes que ordenam os caracteres segundo um padrão.
+# Definir as funcoes que ordenam os caracteres segundo um padrão .
 
 def minuscula(x):
     ''' Faz a contagem de letras minusculas em um determinado string.'''
