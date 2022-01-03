@@ -31,7 +31,7 @@ def semelhanca(teste):
     return semelhanca
 
 
-# Pegando os inputs e printando a comparacao da tentativa com a senha
+# Pegando os inputs e printando a comparacao da tentativa com a  senha
 
 tentativas_restantes = tentativas - 1
 
