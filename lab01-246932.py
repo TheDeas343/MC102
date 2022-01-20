@@ -4,7 +4,7 @@ PF = float(input())
 PE = float(input())
 Temp_Atual_Farenheit = float(input())
 
-#Farenheit para Celsius
+#Farenheit para  Celsius
 Temp_Atual_Celsius = (Temp_Atual_Farenheit-32)*5/9
 Temp_Atual = round(Temp_Atual_Celsius,2)
 
