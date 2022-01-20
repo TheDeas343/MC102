@@ -25,7 +25,7 @@ def maiuscula(x):
     return conta
 
 def alfabeto(x):
-    ''' Faz a contagem de letras do alfabeto em um determinado string.'''
+    ''' Faz a  contagem de letras do alfabeto em um determinado string.'''
 
     conta = 0
 
