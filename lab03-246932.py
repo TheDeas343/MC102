@@ -1,6 +1,6 @@
 
 Lista_T = [] # Armazenar Tamanho
-Lista_PC = [] # Armazenar as peças e a casas delas
+Lista_PC = [] # Armazenar as peças e a casas  delas
 
 tamanho = int(input())
 posicao = input()
