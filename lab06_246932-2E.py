@@ -70,7 +70,7 @@ class Medabot:
     return self.ME
     
   def Ataque(self):
-    """Soma as pontuacoes do Braco Esquerdo e Direito mais o bonus de ataque que o medalhao fornece."""
+    """Soma as pontuacoes do Braco  Esquerdo e Direito mais o bonus de ataque que o medalhao fornece."""
 
     Ataque = self.ME + self.MD + self.Am
     return Ataque
