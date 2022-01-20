@@ -36,7 +36,7 @@ def alfabeto(x):
     return conta
     
 def palavras(x):
-    ''' Faz a contagem de palavras em um determinado string.'''
+    ''' Faz a contagem de palavras  em um determinado string.'''
 
     conta = 1 # Se ha N espaços entao ha N+1 palavras, ja que eles estao entre palavras
 
