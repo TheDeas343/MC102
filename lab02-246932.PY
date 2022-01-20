@@ -56,7 +56,7 @@ print("Media de views do trienio:", format(media_trienio,".2f"))
 
 print()
 
-#___2018____
+#___2018___
 
 print(2018)
 print("Total:", total_views_2018)
