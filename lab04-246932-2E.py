@@ -19,7 +19,7 @@ def qtd_algarismos(x):
 
 def semelhanca(teste): 
     """Dado uma senha teste, essa funcao devolve a semelhanca, quantidade de algarismos na mesma posição, 
-    entre o teste e a senha original.
+    entre o teste e  a senha original.
     """
 
     semelhanca = 0
